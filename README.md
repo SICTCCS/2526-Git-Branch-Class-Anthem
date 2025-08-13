@@ -25,6 +25,15 @@ Saying things that will bring pain...
      
 ```
 
+```
+### Verse: Landen Shipp on branch: verse/Landen-Shipp
+
+I don't know what im doing
+my mind im always losing
+security is my specialty
+computer science i'm experiencing
+my mind i'm losing
+```
 **[Outro]**
 And that's the tale of how we made the grade.
 Our code, our anthem, beautifully laid.
