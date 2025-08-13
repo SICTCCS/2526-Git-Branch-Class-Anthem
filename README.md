@@ -1,2 +1,5 @@
-# 2526-Git-Branch-Class-Anthem
-Practicing Branches and making a song with the 2526 Senior Class
+## [Verse: scott-kaplewski on branch: verse/scott-kaplewski]
+If I'm being honest, coding makes my brain hurt
+Sometimes I get mad, then random things I blurt
+When assignments grow, say goodbye to your time
+Cuz now the only thing your doing is an endless climb
