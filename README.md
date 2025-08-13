@@ -22,7 +22,8 @@ In lines of code, where no one has been,
 I'm going to explore bugs none have seen,
 Customers hurt my brain,
 Saying things that will bring pain...
-     
+this work got me cryin'
+i feel like im dyin'
 ```
 
 ```
