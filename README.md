@@ -16,9 +16,13 @@ Now let's all get to merging our peers!
 
 **[Devins Verse]**
 Im gitin these branches
+
 doing so many dances
+
 commitin to these repos
+
 you know ive got a big ego
+
 
 **[Outro]**
 And that's the tale of how we made the grade.
