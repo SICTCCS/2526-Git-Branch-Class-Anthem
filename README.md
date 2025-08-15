@@ -27,3 +27,9 @@ I kinda thought we'd do more,
 than make such websites galore.
 We code and click till our brains are sore,
 Dreaming of sleep and nothing more. 
+
+Verse: Jarred Smith on branch: verse/jarred-smith
+In bytes and code I spin my art,
+With facts and jokes to play my part,
+Ask away and you will see,
+A world of words through ChatGPT.
