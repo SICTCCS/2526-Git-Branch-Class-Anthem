@@ -5,4 +5,5 @@ This is the 48th bug today,\
 hope this fix works i gotta pray,\
 been up all night crying,\
 code is hard man but im trying.
-
+my head is pounding,\
+I feel like i'm drowning.
