@@ -9,5 +9,5 @@ Now let's all get to merging our peers!
 
 Honestly, this class is fun,
 But I often wish it were done.
-I kinda thougt we'd do more,
+I kinda thought we'd do more,
 than make such websites galore.
