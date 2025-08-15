@@ -79,6 +79,21 @@ Back and forth is all we do,
 
 Always worrying about when things are due.
 
+[Verse: Kenneth-Payne on branch: verse/Kenneth-Payne]
+
+In Lines of code, a world is spun.
+with branching projects, the fun's begun.
+Annoying bugs in the code.
+we got power in edit mode. 
+But the night is still young.
+And so many projects yet to begun.  
+
+[Verse: Ezra Schaefer on branch: ezra-schaefer]
+My code ran so clean, a developer's dream,
+No errors in sight, or so it would seem.
+But a single user, with one strange click,
+Brought the whole system down, oh ain't that a trick.
+Try to fix but got a nervous tick.
 
 ```
 
