@@ -1,4 +1,4 @@
-Branch it out, don’t break the tree,\
+Branch it out, don’t break the tree,
 
 We’re all synced up in Git history.\
 
