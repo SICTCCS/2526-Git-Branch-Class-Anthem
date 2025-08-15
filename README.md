@@ -16,7 +16,7 @@ Forget my late-night code tears.<br>
 This project is finally clear.<br>
 Now let's all get to merging our peers!
 
-## [Verse: Kenneth-Payne on branch: verse/Kenneth-Payne]<br>
+### [Verse: Kenneth-Payne on branch: verse/Kenneth-Payne]<br>
 In Lines of code, a world is spun.<br>
 with branching projects, the fun's begun.<br>
 Annoying bugs in the code.<br>
