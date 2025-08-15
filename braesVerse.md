@@ -1,6 +1,0 @@
-- Got me feelin' kinda droopy,
-- all this code makin me loopy, 
-- "Where is this", "What is that?", 
-- I have this s*** takin' me back! 
-- back and forth is all we do.
-- Always worrying about when things are due.
