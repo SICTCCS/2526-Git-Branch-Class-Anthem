@@ -6,6 +6,7 @@ No 8K streams, don't kill the speed,
 
 The EVSC net’s got limited need.
 
+
 Merge or rebase? The classic debate,
 
 My head's in fast-forward, repo won’t update.
@@ -23,14 +24,15 @@ commitin to these repos,
 
 you know ive got a big ego.
 
+
+
 Got me feelin' kinda droopy,
 
 all this code makin me loopy,
 
 "Where is this", "What is that?",
 
-I have this s*** takin' me back!
-
+I have this stuff takin' me back!
 
 Back and forth is all we do,
 
