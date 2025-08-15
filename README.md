@@ -31,6 +31,7 @@ My code ran so clean, a developer's dream,
 No errors in sight, or so it would seem.
 But a single user, with one strange click,
 Brought the whole system down, oh ain't that a trick.
+Try to fix but got a nervous tick.
 
 **[Outro]**
 And that's the tale of how we made the grade.
