@@ -32,6 +32,7 @@ Forget my late-night code tears.
 This project is finally clear.
 Now let's all get to merging our peers!
 
+[Verse: Ryland-Martz on branch: verse/Ryland-Martz]
  yo bro check it I got some code but somthing is wrong.
  that looks like a big bug someone call the debug control.
  this copilot code is so bad it makes me hate it
@@ -44,6 +45,7 @@ Forget my late-night code tears.
 This project is finally clear.
 Now let's all get to merging our peers!
 
+[Verse: Jacob-Parrott on branch: verse/Jacob-parrott]
 Up 15 hours debugging this code
 all because i dont wanna use ai, no
 4 monsters in and im about to weep
@@ -57,6 +59,7 @@ Forget my late-night code tears.
 This project is finally clear.
 Now let's all get to merging our peers!
 
+[Verse: Justin-Long on branch: Verse/Justin-Long]
 This is the 48th bug today,\
 hope this fix works i gotta pray,\
 been up all night crying,\
