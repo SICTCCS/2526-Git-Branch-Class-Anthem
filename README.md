@@ -68,7 +68,6 @@ Forget my late-night code tears.
 This project is finally clear.
 Now let's all get to merging our peers!
 
-# kaden's verse
 Why isn't my code working?\
 Ok, it works now.\
 Why is it working?\
@@ -82,7 +81,7 @@ Forget my late-night code tears.
 This project is finally clear.
 Now let's all get to merging our peers!
 
-[Verse: Nolan-Wong on branch: verse/Nolan-Wong]
+[verse by Nolan Wong]
 Honestly, this class is fun,
 But I often wish it were done.
 I kinda thought we'd do more,
@@ -96,7 +95,7 @@ Forget my late-night code tears.
 This project is finally clear.
 Now let's all get to merging our peers!
 
-[Verse: Jarred-Smith on branch: Verse/Jarred-Smith]
+[verse by Jarred Smith]
 In bytes and code I spin my art,
 With facts and jokes to play my part,
 Ask away and you will see,
@@ -144,7 +143,7 @@ The EVSC net’s got limited need.
 Merge or rebase? The classic debate,
 My head's in fast-forward, repo won’t update.
 "Network timeout," now I’m feeling the pain,
-Bro, just pause the stream — it’s not even game day!
+Bro, just pause the stream — it’s not even game day!  
 ### Devins Verse
 Im gitin these branches,
 doing so many dances,
@@ -157,6 +156,7 @@ all this code makin me loopy,
 I have this stuff takin' me back!
 Back and forth is all we do,
 Always worrying about when things are due.  
+
  ### [Verse: Riley Edwards on branch: verse/Riley-Edwards]
 I believe in myself  
 My code is as sturdy as a shelf  
