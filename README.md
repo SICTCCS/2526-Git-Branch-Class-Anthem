@@ -86,7 +86,7 @@ Forget my late-night code tears.
 This project is finally clear.
 Now let's all get to merging our peers!
 
-[verse by Nolan Wong]
+[Verse: Nolan-Wong on branch: verse/Nolan-Wong]
 Honestly, this class is fun,
 But I often wish it were done.
 I kinda thought we'd do more,
@@ -100,7 +100,7 @@ Forget my late-night code tears.
 This project is finally clear.
 Now let's all get to merging our peers!
 
-[verse by Jarred Smith]
+[Verse: Jarred-Smith on branch: verse/Jarred-Smith]
 In bytes and code I spin my art,
 With facts and jokes to play my part,
 Ask away and you will see,
