@@ -81,6 +81,7 @@ Forget my late-night code tears.
 This project is finally clear.
 Now let's all get to merging our peers!
 
+[verse by Nolan Wong]
 Honestly, this class is fun,
 But I often wish it were done.
 I kinda thought we'd do more,
@@ -94,6 +95,7 @@ Forget my late-night code tears.
 This project is finally clear.
 Now let's all get to merging our peers!
 
+[verse by Jarred Smith]
 In bytes and code I spin my art,
 With facts and jokes to play my part,
 Ask away and you will see,
@@ -142,7 +144,7 @@ Merge or rebase? The classic debate,
 My head's in fast-forward, repo won’t update.
 "Network timeout," now I’m feeling the pain,
 Bro, just pause the stream — it’s not even game day!
-
+### Devins Verse
 Im gitin these branches,
 doing so many dances,
 commitin to these repos,
