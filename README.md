@@ -4,6 +4,7 @@ Forget my late-night code tears.
 This project is finally clear.
 Now let's all get to merging our peers!
 
+[Verse: Scott-Kaplewski on branch: verse/Scott-Kaplewski]
 If I'm being honest, coding makes my brain hurt
 Sometimes I get mad, then random things I blurt
 When assignments grow, say goodbye to your time
