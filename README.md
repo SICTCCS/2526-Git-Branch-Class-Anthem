@@ -144,7 +144,7 @@ Merge or rebase? The classic debate,
 My head's in fast-forward, repo won’t update.
 "Network timeout," now I’m feeling the pain,
 Bro, just pause the stream — it’s not even game day!
-
+### Devins Verse
 Im gitin these branches,
 doing so many dances,
 commitin to these repos,
