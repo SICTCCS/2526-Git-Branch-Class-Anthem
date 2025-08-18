@@ -139,8 +139,7 @@ security is my specialty
 computer science i'm experiencing
 my mind i'm losing
 
-### Drew's table
-
+### Adian's table
 Branch it out, don’t break the tree,
 We’re all synced up in Git history.
 No 8K streams, don't kill the speed,
