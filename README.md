@@ -73,6 +73,7 @@ Forget my late-night code tears.
 This project is finally clear.
 Now let's all get to merging our peers!
 
+[Verse: Kaden-Wright on branch: verse/Kaden-Wright]
 Why isn't my code working?\
 Ok, it works now.\
 Why is it working?\
